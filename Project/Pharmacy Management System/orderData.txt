@@ -1,0 +1,2 @@
+sahil, palicetamor, 2, Total=40
+sahil, allergy, 2, Total=80
